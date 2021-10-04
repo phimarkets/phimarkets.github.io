@@ -8,7 +8,7 @@ This week has been mostly bearish in many markets with an astronomical recoverin
 
 ## S&P500
 
-S&P500 started the week rejecting $4455 daily support. That driven the price to $4332 daily support, but this support was broken on Thursday. This breaking off showed weakness (Also was were monthly candle closed this day). But on friday price has really nice recovering after tested $4278 4h-support on Futuresi, closing below $4366 daily resistance on futures this day.
+S&P500 started the week rejecting $4455 daily support. That driven the price to $4332 daily support, but this support was broken on Thursday. This breaking off showed weakness (Also was were monthly candle closed this day). But on friday price has really nice recovering after tested $4278 4h-support on Futures, closing below $4366 daily resistance on futures this day.
 
 ![](./media/september-ends/sp500-daily.png)
 
